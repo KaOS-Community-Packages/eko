@@ -5,7 +5,7 @@ _commit=c3428e53eb59841f1e39094239bf1268ad534d41
 pkgdesc="Qt5 sound editor"
 arch=('x86_64')
 url="https://github.com/psemiletov/eko"
-category:Audiovideo
+category:AudioVideo
 screenshot:http://i.imgur.com/UnNl5NE.png?1
 license=('Public domain')
 depends=( 'qt5-base' 'portaudio' 'libsndfile' 'libsamplerate')
